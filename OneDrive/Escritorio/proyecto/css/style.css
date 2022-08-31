@@ -1,15 +1,1 @@
-body{
-    background-color: rgb(247, 218, 55);
-}
-
-:root{
-    --colorPrincipal: pink;
-    --colorSecundario: rgb(59, 119, 248); 
-}
-
-.chichito{
-    height: auto;
-    width: auto;
- --letraPrincipal: liberation serif;
- background-color: rgb(255, 129, 249);
-}
+body{}
