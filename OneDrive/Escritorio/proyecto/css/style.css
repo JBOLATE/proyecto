@@ -3,5 +3,7 @@ body{
 }
 
 .encabezado{
-
+    height: auto;
+    width: auto;
+    background-color: rgb(255, 129, 249);
 }
