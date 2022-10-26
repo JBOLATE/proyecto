@@ -8,3 +8,9 @@ function addElemento(texto){
 }
 
 const fragment = document.createDocumentFragment();
+
+for (let i = 0; i < 5000; i++) {
+    const div = document.createElement("div");
+    div.textContent = `Item número ${i}`;
+    fragment.appendChild(div);
+}
