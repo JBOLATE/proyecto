@@ -6,3 +6,5 @@ function addElemento(texto){
     h1.innerHTML = texto;
     capa.appendChild(h1);
 }
+
+const fragment = document.createDocumentFragment();
