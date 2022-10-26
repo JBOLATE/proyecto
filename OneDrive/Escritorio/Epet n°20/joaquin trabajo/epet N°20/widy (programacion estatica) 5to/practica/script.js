@@ -1,0 +1,1 @@
+var capa = document.getElementById("capa");
