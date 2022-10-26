@@ -1,9 +1,8 @@
-body{ 
-    background-color: rgb(247, 218, 55);
+.encabezado{ 
+    background-color: rgb(111, 255, 231);
 }
 
-.encabezado{
+.portada{
     height: auto;
     width: auto;
-    background-color: rgb(255, 129, 249);
 }
