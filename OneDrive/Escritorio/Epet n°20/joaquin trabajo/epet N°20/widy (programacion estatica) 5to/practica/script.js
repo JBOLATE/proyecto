@@ -14,3 +14,10 @@ for (let i = 0; i < 5000; i++) {
     div.textContent = `Item número ${i}`;
     fragment.appendChild(div);
 }
+
+document.body.appendChild(fragment);
+
+const div = document.createElement("div"); // <div></div>
+div.id = "page";          // <div id="page"></div>
+div.className = "data";   // <div id="page" class="data"></div>
+div.style = "color: red"; // <div id="page" class="data" style="color: red"></div>
