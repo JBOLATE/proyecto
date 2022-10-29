@@ -1,14 +1,6 @@
 *{
     margin: 0;
     padding: 0;
-
-}
-/*Header superior*/
-
-header{
-    width: 100%;
-    position: fixed;
-    top: 0;
-    left: 0;
-    background: #fff;
+    box-sizing: border-box;
+    font-family: ;
 }

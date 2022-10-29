@@ -2,6 +2,22 @@ body{
     background-color: rgb(111, 255, 231);
 }
 
+*{
+    margin: 0;
+    padding: 0;
+
+}
+/*Header superior*/
+
+header{
+    width: 100%;
+    position: fixed;
+    top: 0;
+    left: 0;
+    background: #fff;
+}
+
+
 
 
 JS
