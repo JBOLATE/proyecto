@@ -37,3 +37,15 @@ header{
     background: #023877;
     padding: 0px 20px;
 }
+
+.menu{
+    max-width: 1200px;
+    margin: auto;
+    height: 100%;
+}
+
+nav{
+    height: 100%;
+}
+
+
