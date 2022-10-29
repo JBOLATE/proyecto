@@ -57,6 +57,18 @@ nav > ul > li{
     height: 100%;
     list-style: none;
     position: relative;
-    
+
+}
+
+nav > ul > li > a{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    padding: 14px;
+    color: #fff;
+    text-decoration: uppercase;
+    font-size: 14px;
+    transition: all 300ms ease;
 }
 
