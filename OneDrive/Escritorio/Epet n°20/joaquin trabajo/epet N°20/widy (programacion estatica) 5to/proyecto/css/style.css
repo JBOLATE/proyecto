@@ -48,4 +48,7 @@ nav{
     height: 100%;
 }
 
-
+nav > ul{
+    height: 100%;
+    display: flex;
+}
