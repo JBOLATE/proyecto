@@ -10,7 +10,6 @@
 
 header{
     width: 100%;
-    position: fixed;
     top: 0;
     left: 0;
     background: #fff;
@@ -19,9 +18,13 @@ header{
 /*HEADER SUPERIOR*/
 
 .header__superior{
-    max-width: 1200px;
+    max-width: 120px;
     margin: auto;
     display: flex;
     align-items: center;
     justify-content: space-between;
+}
+
+.logo{
+    width: 350px;
 }
