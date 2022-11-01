@@ -107,4 +107,9 @@ nav > ul > li > a:hover{
         opacity: 0;
         visibility: hidden;
     }
+
+    nav > ul > li > a:hover{
+    transform: scale(1);
+    }
+
 }
