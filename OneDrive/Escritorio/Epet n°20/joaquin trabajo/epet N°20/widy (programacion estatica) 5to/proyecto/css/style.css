@@ -74,4 +74,5 @@ nav > ul > li > a{
 
 nav > ul > li > a:hover{
     transform: scale(1.6);
+    background-color: #0074c7;
 }
