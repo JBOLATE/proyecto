@@ -90,4 +90,14 @@ nav > ul > li > a:hover{
         display: none;
     }
     
+    .header__superior{
+        padding: 10px;
+    }
+
+    nav > ul{
+        flex-direction: column;
+        background-color: #023877;
+        position: fixed;
+        
+    }
 }
