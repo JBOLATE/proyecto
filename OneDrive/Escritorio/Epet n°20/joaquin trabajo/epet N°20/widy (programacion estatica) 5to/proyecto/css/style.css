@@ -72,3 +72,6 @@ nav > ul > li > a{
     transition: all 300ms ease;
 }
 
+nav > ul > li > a:hover{
+
+}
