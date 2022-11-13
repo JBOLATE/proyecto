@@ -144,7 +144,14 @@ nav > ul > li > a:hover{
 }
 
 .informacion_img{
-    
+    width: 100%;
+    height: 220px;
+    color: black;
+    background: #bcfbfc; /*cambiar color*/
+    padding: 20px;
+    margin-top: -220px;
 }
+
+
 
 /*terminando con las imagenes de inicio*/
