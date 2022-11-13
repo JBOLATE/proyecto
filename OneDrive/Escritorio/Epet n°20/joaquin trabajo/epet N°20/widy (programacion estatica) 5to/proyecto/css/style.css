@@ -165,7 +165,23 @@ nav > ul > li > a:hover{
     -webkit-line-clamp: 3;
     line-clamp: 3;
     overflow: hidden;
+}
 
+.informacion_img input{
+    margin-top: 20px;
+    padding: 10px 40px;
+    background: white;
+    color: #ffd0fc;
+    font-weight: 500;
+    font-size: 14px;
+    border: none;
+    border-radius: 20px;
+    box-shadow: 1px 1px 30px -5px #28282849;
+    transition: box-shadow 500ms;
+}
+
+.informacion_img input:hover{
+    box-shadow: 1px 1px 30px -5px #28282870;
 }
 
 /*terminando con las imagenes de inicio*/
