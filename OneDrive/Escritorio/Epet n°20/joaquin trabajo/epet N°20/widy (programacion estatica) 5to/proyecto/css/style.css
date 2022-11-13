@@ -159,7 +159,12 @@ nav > ul > li > a:hover{
     display: -webkit-box; /*permite reflejar el contenido en una sola dirección especifica*/
     display: -moz-box; /*esta propiedad es para controlar el modelo de caja*/
     display: box;
-    
+    -webkit-box-orient: vertical; /*indicandole que el recorte sea vertical*/
+    -moz-box-orient: vertical;
+    box-orient: vertical;
+    -webkit-line-clamp: 3;
+    line-clamp: 3;
+    overflow: hidden;
 
 }
 
