@@ -127,9 +127,13 @@ nav > ul > li > a:hover{
     justify-content: center;
 }
 
-.container_img1{
-    
+.container_img{
+    width: 300px;
+    position: relative;
+    margin: 20px;
 }
+
+
 
 
 /*terminando con las imagenes de inicio*/
