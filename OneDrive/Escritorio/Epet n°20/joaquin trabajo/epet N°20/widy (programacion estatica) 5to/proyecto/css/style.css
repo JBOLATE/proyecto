@@ -149,7 +149,7 @@ nav > ul > li > a:hover{
     color: black;
     background: #bcfbfc; /*cambiar color*/
     padding: 20px;
-    margin-top: -220px;
+    *margin-top: -220px;
 }
 
 .informacion_img p{
