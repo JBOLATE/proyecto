@@ -152,6 +152,15 @@ nav > ul > li > a:hover{
     margin-top: -220px;
 }
 
+.informacion_img p{
 
+    font-size: 14px;
+    margin-top: 10px;
+    display: -webkit-box; /*permite reflejar el contenido en una sola dirección especifica*/
+    display: -moz-box; /*esta propiedad es para controlar el modelo de caja*/
+    display: box;
+    
+
+}
 
 /*terminando con las imagenes de inicio*/
