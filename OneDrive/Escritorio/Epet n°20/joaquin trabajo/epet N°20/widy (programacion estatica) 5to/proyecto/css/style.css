@@ -133,7 +133,18 @@ nav > ul > li > a:hover{
     margin: 20px;
 }
 
+.img{
+    width: 100%;
+    height: 220px;
+    background: #ffd0fc;
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
 
-
+.informacion_img{
+    
+}
 
 /*terminando con las imagenes de inicio*/
