@@ -103,6 +103,13 @@ nav > ul > li > a:hover{
     height: 100%;
     display: flex;
     align-items: center;
+    display: none;
+}
+
+#label__check{
+    width: 26px;
+    height: 100%;
+    display: none;
 }
 
 #check__menu{
