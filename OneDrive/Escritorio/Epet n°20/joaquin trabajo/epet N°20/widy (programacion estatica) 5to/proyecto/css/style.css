@@ -141,6 +141,9 @@ nav > ul > li > a:hover{
     display: flex;
     justify-content: center;
     align-items: center;
+    position: relative;
+    z-index: 1;
+    
 }
 
 .informacion_img{
@@ -149,7 +152,7 @@ nav > ul > li > a:hover{
     color: black;
     background: #bcfbfc; /*cambiar color*/
     padding: 20px;
-    *margin-top: -220px;
+    margin-top: -220px;
 }
 
 .informacion_img p{
@@ -183,5 +186,9 @@ nav > ul > li > a:hover{
 .informacion_img input:hover{
     box-shadow: 1px 1px 30px -5px #28282870;
 }
+
+
+
+
 
 /*terminando con las imagenes de inicio*/
