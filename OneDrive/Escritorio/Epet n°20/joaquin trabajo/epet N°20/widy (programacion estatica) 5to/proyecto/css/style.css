@@ -117,7 +117,7 @@ nav > ul > li > a:hover{
 }
 
 
-@media screen and (max-width: 720px){
+@media screen and (max-width: 700px){
     
     .header__superior{
         padding: 10px;
