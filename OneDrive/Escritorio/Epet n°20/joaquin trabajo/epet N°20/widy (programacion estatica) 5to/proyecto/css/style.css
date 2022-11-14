@@ -16,15 +16,16 @@ header{
 /*HEADER SUPERIOR*/
 
 .header__superior{
-    max-width: 120px;
+    max-width: 1200px;
     margin: auto;
-    align-items: auto;
+    display: block;
     padding: 20px;
+    justify-content: center;
 }
 
 .logo img{
     width: 250px;
-    
+
 }
 
 
