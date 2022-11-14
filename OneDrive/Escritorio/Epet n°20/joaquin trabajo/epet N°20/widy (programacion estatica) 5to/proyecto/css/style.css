@@ -118,7 +118,7 @@ nav > ul > li > a:hover{
 }
 
 
-@media screen and (max-width: 700px){
+@media screen and (max-width: 700px){ /*menu para celulares*/
     
     .header__superior{
         padding: 10px;
@@ -169,8 +169,10 @@ nav > ul > li > a:hover{
 
 }
 
-/*Empezando con las imagenes del inicio*/
+/*fin de menu para celulares*/
 
+
+/*Empezando con las imagenes del inicio*/
 
 .body_imagenes{
     max-width: 1200px;
