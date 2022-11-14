@@ -229,7 +229,7 @@ nav > ul > li > a:hover{
     padding: 20px;
     margin-top: -220px;
     transition: all 400ms cubic-bezier(0.5,0,0,1);
-    border-radius: 20px;
+    
 }
 
 .informacion_img p{
