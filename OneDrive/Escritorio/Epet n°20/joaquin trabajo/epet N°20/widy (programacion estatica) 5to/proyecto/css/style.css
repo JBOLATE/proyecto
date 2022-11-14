@@ -131,10 +131,20 @@ nav > ul > li > a:hover{
     width: 300px;
     position: relative;
     margin: 20px;
+    transition: all 300ms;
 }
 
 .img:hover{
-    box-shadow: 1px 1px 20px -10px #28282849;
+    box-shadow: 1px 1px 20px -10px #28282849; /*Aparece sombrado en la caja al momento que se pasa por arriba con el mouse*/
+}
+
+.caja:hover .informacion_img{
+    margin-top: 0;
+}
+
+.caja:hover .img{
+    margin-top: -110px;
+    transition: all 400ms cubic-bezier(0.5,0,0,1);
 
 }
 
@@ -158,6 +168,7 @@ nav > ul > li > a:hover{
     background: #bcfbfc; /*cambiar color*/
     padding: 20px;
     margin-top: -220px;
+    transition: all 400ms cubic-bezier(0.5,0,0,1);
 }
 
 .informacion_img p{
@@ -199,7 +210,7 @@ nav > ul > li > a:hover{
     color: #bcfbfc;
 }
 .c1:hover .img{
-    background: #fff;
+    background: #ffd0fc;
 }
 
 
@@ -210,7 +221,7 @@ nav > ul > li > a:hover{
     color: #bcfbfc;
 }
 .c2:hover .img{
-    background: #fff;
+    background: #ffd0fc;
 }
 
 
@@ -221,7 +232,7 @@ nav > ul > li > a:hover{
     color: #bcfbfc;
 }
 .c3:hover .img{
-    background: #fff;
+    background: #ffd0fc;
 }
 
 
@@ -233,7 +244,7 @@ nav > ul > li > a:hover{
     color: #bcfbfc;
 }
 .c4:hover .img{
-    background: #fff;
+    background: #ffd0fc;
 }
 
 
@@ -244,7 +255,7 @@ nav > ul > li > a:hover{
     color: #bcfbfc;
 }
 .c5:hover .img{
-    background: #fff;
+    background: #ffd0fc;
 }
 
 
@@ -256,7 +267,7 @@ nav > ul > li > a:hover{
     color: #bcfbfc;
 }
 .c6:hover .img{
-    background: #fff;
+    background: #ffd0fc;
 }
 
 
@@ -268,7 +279,7 @@ nav > ul > li > a:hover{
     color: #bcfbfc;
 }
 .c7:hover .img{
-    background: #fff;
+    background: #ffd0fc;
 }
 
 
@@ -280,7 +291,7 @@ nav > ul > li > a:hover{
     color: #bcfbfc;
 }
 .c8:hover .img{
-    background: #fff;
+    background: #ffd0fc;
 }
 
 
