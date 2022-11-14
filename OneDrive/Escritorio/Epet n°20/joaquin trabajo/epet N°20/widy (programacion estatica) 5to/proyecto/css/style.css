@@ -127,7 +127,7 @@ nav > ul > li > a:hover{
     justify-content: center;
 }
 
-.container_img{
+.caja{
     width: 300px;
     position: relative;
     margin: 20px;
@@ -135,7 +135,7 @@ nav > ul > li > a:hover{
 
 .img:hover{
     box-shadow: 1px 1px 20px -10px #28282849;
-    
+
 }
 
 .img{
@@ -192,7 +192,96 @@ nav > ul > li > a:hover{
     box-shadow: 1px 1px 30px -5px #28282870;
 }
 
+.c1:hover .img{
+    background: #bcfbfc;
+}
+.c1 .img{
+    color: #bcfbfc;
+}
+.c1:hover .img{
+    background: #fff;
+}
 
+
+.c2:hover .img{
+    background: #bcfbfc;
+}
+.c2 .img{
+    color: #bcfbfc;
+}
+.c2:hover .img{
+    background: #fff;
+}
+
+
+.c3:hover .img{
+    background: #bcfbfc;
+}
+.c3 .img{
+    color: #bcfbfc;
+}
+.c3:hover .img{
+    background: #fff;
+}
+
+
+
+.c4:hover .img{
+    background: #bcfbfc;
+}
+.c4 .img{
+    color: #bcfbfc;
+}
+.c4:hover .img{
+    background: #fff;
+}
+
+
+.c5:hover .img{
+    background: #bcfbfc;
+}
+.c5 .img{
+    color: #bcfbfc;
+}
+.c5:hover .img{
+    background: #fff;
+}
+
+
+
+.c6:hover .img{
+    background: #bcfbfc;
+}
+.c6 .img{
+    color: #bcfbfc;
+}
+.c6:hover .img{
+    background: #fff;
+}
+
+
+
+.c7:hover .img{
+    background: #bcfbfc;
+}
+.c7 .img{
+    color: #bcfbfc;
+}
+.c7:hover .img{
+    background: #fff;
+}
+
+
+
+.c8:hover .img{
+    background: #bcfbfc;
+}
+.c8 .img{
+    color: #bcfbfc;
+}
+.c8:hover .img{
+    background: #fff;
+}
 
 
 
