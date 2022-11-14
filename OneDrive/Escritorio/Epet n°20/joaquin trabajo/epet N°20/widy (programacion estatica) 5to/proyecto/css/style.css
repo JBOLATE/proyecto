@@ -97,13 +97,18 @@ nav > ul > li > a:hover{
 
 .icon__menu{
     font-size: 26px;
-    color: #fff;
+    color: black;
     cursor: pointer;
     width: 26px;
     height: 100%;
+    display: flex;
     align-items: center;
-    
 }
+
+#check__menu{
+    display: none;
+}
+
 
 @media screen and (max-width: 720px){
     
